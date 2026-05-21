@@ -1,0 +1,17 @@
+C:\Nelly\Nelly_co\Portfolio\ndp\NdpPorfolio\NdpPortfolio.Infrastructure\bin\Debug\net10.0\NdpPortfolio.Infrastructure.deps.json
+C:\Nelly\Nelly_co\Portfolio\ndp\NdpPorfolio\NdpPortfolio.Infrastructure\bin\Debug\net10.0\NdpPortfolio.Infrastructure.dll
+C:\Nelly\Nelly_co\Portfolio\ndp\NdpPorfolio\NdpPortfolio.Infrastructure\bin\Debug\net10.0\NdpPortfolio.Infrastructure.pdb
+C:\Nelly\Nelly_co\Portfolio\ndp\NdpPorfolio\NdpPortfolio.Infrastructure\bin\Debug\net10.0\NdpPortfolio.Application.dll
+C:\Nelly\Nelly_co\Portfolio\ndp\NdpPorfolio\NdpPortfolio.Infrastructure\bin\Debug\net10.0\NdpPortfolio.Core.dll
+C:\Nelly\Nelly_co\Portfolio\ndp\NdpPorfolio\NdpPortfolio.Infrastructure\bin\Debug\net10.0\NdpPortfolio.Core.pdb
+C:\Nelly\Nelly_co\Portfolio\ndp\NdpPorfolio\NdpPortfolio.Infrastructure\bin\Debug\net10.0\NdpPortfolio.Application.pdb
+C:\Nelly\Nelly_co\Portfolio\ndp\NdpPorfolio\NdpPortfolio.Infrastructure\obj\Debug\net10.0\NdpPortfolio.Infrastructure.csproj.AssemblyReference.cache
+C:\Nelly\Nelly_co\Portfolio\ndp\NdpPorfolio\NdpPortfolio.Infrastructure\obj\Debug\net10.0\NdpPortfolio.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Nelly\Nelly_co\Portfolio\ndp\NdpPorfolio\NdpPortfolio.Infrastructure\obj\Debug\net10.0\NdpPortfolio.Infrastructure.AssemblyInfoInputs.cache
+C:\Nelly\Nelly_co\Portfolio\ndp\NdpPorfolio\NdpPortfolio.Infrastructure\obj\Debug\net10.0\NdpPortfolio.Infrastructure.AssemblyInfo.cs
+C:\Nelly\Nelly_co\Portfolio\ndp\NdpPorfolio\NdpPortfolio.Infrastructure\obj\Debug\net10.0\NdpPortfolio.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Nelly\Nelly_co\Portfolio\ndp\NdpPorfolio\NdpPortfolio.Infrastructure\obj\Debug\net10.0\NdpPortf.A1FDC857.Up2Date
+C:\Nelly\Nelly_co\Portfolio\ndp\NdpPorfolio\NdpPortfolio.Infrastructure\obj\Debug\net10.0\NdpPortfolio.Infrastructure.dll
+C:\Nelly\Nelly_co\Portfolio\ndp\NdpPorfolio\NdpPortfolio.Infrastructure\obj\Debug\net10.0\refint\NdpPortfolio.Infrastructure.dll
+C:\Nelly\Nelly_co\Portfolio\ndp\NdpPorfolio\NdpPortfolio.Infrastructure\obj\Debug\net10.0\NdpPortfolio.Infrastructure.pdb
+C:\Nelly\Nelly_co\Portfolio\ndp\NdpPorfolio\NdpPortfolio.Infrastructure\obj\Debug\net10.0\ref\NdpPortfolio.Infrastructure.dll

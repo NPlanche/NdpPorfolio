@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "NdpPortfolio.Application/1.0.0": {
+        "dependencies": {
+          "NdpPortfolio.Core": "1.0.0"
+        },
+        "runtime": {
+          "NdpPortfolio.Application.dll": {}
+        }
+      },
+      "NdpPortfolio.Core/1.0.0": {
+        "runtime": {
+          "NdpPortfolio.Core.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NdpPortfolio.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "NdpPortfolio.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

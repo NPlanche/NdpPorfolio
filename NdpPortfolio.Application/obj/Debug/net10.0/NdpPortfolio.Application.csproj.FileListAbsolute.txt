@@ -1,0 +1,15 @@
+C:\Nelly\Nelly_co\Portfolio\ndp\NdpPorfolio\NdpPortfolio.Application\bin\Debug\net10.0\NdpPortfolio.Application.deps.json
+C:\Nelly\Nelly_co\Portfolio\ndp\NdpPorfolio\NdpPortfolio.Application\bin\Debug\net10.0\NdpPortfolio.Application.dll
+C:\Nelly\Nelly_co\Portfolio\ndp\NdpPorfolio\NdpPortfolio.Application\bin\Debug\net10.0\NdpPortfolio.Application.pdb
+C:\Nelly\Nelly_co\Portfolio\ndp\NdpPorfolio\NdpPortfolio.Application\bin\Debug\net10.0\NdpPortfolio.Core.dll
+C:\Nelly\Nelly_co\Portfolio\ndp\NdpPorfolio\NdpPortfolio.Application\bin\Debug\net10.0\NdpPortfolio.Core.pdb
+C:\Nelly\Nelly_co\Portfolio\ndp\NdpPorfolio\NdpPortfolio.Application\obj\Debug\net10.0\NdpPortfolio.Application.csproj.AssemblyReference.cache
+C:\Nelly\Nelly_co\Portfolio\ndp\NdpPorfolio\NdpPortfolio.Application\obj\Debug\net10.0\NdpPortfolio.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Nelly\Nelly_co\Portfolio\ndp\NdpPorfolio\NdpPortfolio.Application\obj\Debug\net10.0\NdpPortfolio.Application.AssemblyInfoInputs.cache
+C:\Nelly\Nelly_co\Portfolio\ndp\NdpPorfolio\NdpPortfolio.Application\obj\Debug\net10.0\NdpPortfolio.Application.AssemblyInfo.cs
+C:\Nelly\Nelly_co\Portfolio\ndp\NdpPorfolio\NdpPortfolio.Application\obj\Debug\net10.0\NdpPortfolio.Application.csproj.CoreCompileInputs.cache
+C:\Nelly\Nelly_co\Portfolio\ndp\NdpPorfolio\NdpPortfolio.Application\obj\Debug\net10.0\NdpPortf.C400A2DA.Up2Date
+C:\Nelly\Nelly_co\Portfolio\ndp\NdpPorfolio\NdpPortfolio.Application\obj\Debug\net10.0\NdpPortfolio.Application.dll
+C:\Nelly\Nelly_co\Portfolio\ndp\NdpPorfolio\NdpPortfolio.Application\obj\Debug\net10.0\refint\NdpPortfolio.Application.dll
+C:\Nelly\Nelly_co\Portfolio\ndp\NdpPorfolio\NdpPortfolio.Application\obj\Debug\net10.0\NdpPortfolio.Application.pdb
+C:\Nelly\Nelly_co\Portfolio\ndp\NdpPorfolio\NdpPortfolio.Application\obj\Debug\net10.0\ref\NdpPortfolio.Application.dll

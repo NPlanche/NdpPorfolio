@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="NdpPortfolio.Application/NdpPortfolio.Application.csproj" />
+  <Project Path="NdpPortfolio.Core/NdpPortfolio.Core.csproj" />
+  <Project Path="NdpPortfolio.Infrastructure/NdpPortfolio.Infrastructure.csproj" />
+  <Project Path="NdpPortfolio.UI/NdpPortfolio.UI.csproj" />
+</Solution>

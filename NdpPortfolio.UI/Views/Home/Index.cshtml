@@ -1,0 +1,19 @@
+﻿@model List<NdpPortfolio.Core.Entities.Project>
+
+@{
+    ViewData["Title"] = "Home";
+}
+
+<h1>My Portfolio</h1>
+<p>Projects loaded from the service layer:</p>
+
+@foreach (var project in Model)
+{
+    <div style="margin-bottom:20px; padding:10px; border:1px solid #ccc;">
+        <h3>@project.Title</h3>
+        <p>@project.Description</p>
+        <p><strong>Type:</strong> @project.ProjectType</p>
+        <p><strong>Live:</strong> @(project.IsLive ? "Yes" : "No")</p>
+        <p><strong>GitHub:</strong> @project.GitHubUrl</p>
+    </div>
+}

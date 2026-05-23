@@ -9,6 +9,7 @@
       "NdpPortfolio.UI/1.0.0": {
         "dependencies": {
           "NdpPortfolio.Application": "1.0.0",
+          "NdpPortfolio.Core": "1.0.0",
           "NdpPortfolio.Infrastructure": "1.0.0"
         },
         "runtime": {

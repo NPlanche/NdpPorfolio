@@ -5,6 +5,7 @@ C:\Nelly\Nelly_co\Portfolio\ndp\NdpPorfolio\NdpPortfolio.Core\obj\Debug\net10.0\
 C:\Nelly\Nelly_co\Portfolio\ndp\NdpPorfolio\NdpPortfolio.Core\obj\Debug\net10.0\NdpPortfolio.Core.AssemblyInfoInputs.cache
 C:\Nelly\Nelly_co\Portfolio\ndp\NdpPorfolio\NdpPortfolio.Core\obj\Debug\net10.0\NdpPortfolio.Core.AssemblyInfo.cs
 C:\Nelly\Nelly_co\Portfolio\ndp\NdpPorfolio\NdpPortfolio.Core\obj\Debug\net10.0\NdpPortfolio.Core.csproj.CoreCompileInputs.cache
+C:\Nelly\Nelly_co\Portfolio\ndp\NdpPorfolio\NdpPortfolio.Core\obj\Debug\net10.0\NdpPortfolio.Core.sourcelink.json
 C:\Nelly\Nelly_co\Portfolio\ndp\NdpPorfolio\NdpPortfolio.Core\obj\Debug\net10.0\NdpPortfolio.Core.dll
 C:\Nelly\Nelly_co\Portfolio\ndp\NdpPorfolio\NdpPortfolio.Core\obj\Debug\net10.0\refint\NdpPortfolio.Core.dll
 C:\Nelly\Nelly_co\Portfolio\ndp\NdpPorfolio\NdpPortfolio.Core\obj\Debug\net10.0\NdpPortfolio.Core.pdb

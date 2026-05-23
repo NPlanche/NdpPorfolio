@@ -1,0 +1,282 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Nelly\\Nelly_co\\Portfolio\\ndp\\NdpPorfolio\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CE6DBCC1-A993-6BB9-C1CA-C5F996448880}|NdpPortfolio.UI\\NdpPortfolio.UI.csproj|c:\\nelly\\nelly_co\\portfolio\\ndp\\ndpporfolio\\ndpportfolio.ui\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CE6DBCC1-A993-6BB9-C1CA-C5F996448880}|NdpPortfolio.UI\\NdpPortfolio.UI.csproj|solutionrelative:ndpportfolio.ui\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE6DBCC1-A993-6BB9-C1CA-C5F996448880}|NdpPortfolio.UI\\NdpPortfolio.UI.csproj|c:\\nelly\\nelly_co\\portfolio\\ndp\\ndpporfolio\\ndpportfolio.ui\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{CE6DBCC1-A993-6BB9-C1CA-C5F996448880}|NdpPortfolio.UI\\NdpPortfolio.UI.csproj|solutionrelative:ndpportfolio.ui\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE6DBCC1-A993-6BB9-C1CA-C5F996448880}|NdpPortfolio.UI\\NdpPortfolio.UI.csproj|c:\\nelly\\nelly_co\\portfolio\\ndp\\ndpporfolio\\ndpportfolio.ui\\views\\shared\\_layout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE6DBCC1-A993-6BB9-C1CA-C5F996448880}|NdpPortfolio.UI\\NdpPortfolio.UI.csproj|solutionrelative:ndpportfolio.ui\\views\\shared\\_layout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE6DBCC1-A993-6BB9-C1CA-C5F996448880}|NdpPortfolio.UI\\NdpPortfolio.UI.csproj|c:\\nelly\\nelly_co\\portfolio\\ndp\\ndpporfolio\\ndpportfolio.ui\\views\\shared\\error.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE6DBCC1-A993-6BB9-C1CA-C5F996448880}|NdpPortfolio.UI\\NdpPortfolio.UI.csproj|solutionrelative:ndpportfolio.ui\\views\\shared\\error.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE6DBCC1-A993-6BB9-C1CA-C5F996448880}|NdpPortfolio.UI\\NdpPortfolio.UI.csproj|c:\\nelly\\nelly_co\\portfolio\\ndp\\ndpporfolio\\ndpportfolio.ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE6DBCC1-A993-6BB9-C1CA-C5F996448880}|NdpPortfolio.UI\\NdpPortfolio.UI.csproj|solutionrelative:ndpportfolio.ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE6DBCC1-A993-6BB9-C1CA-C5F996448880}|NdpPortfolio.UI\\NdpPortfolio.UI.csproj|c:\\nelly\\nelly_co\\portfolio\\ndp\\ndpporfolio\\ndpportfolio.ui\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CE6DBCC1-A993-6BB9-C1CA-C5F996448880}|NdpPortfolio.UI\\NdpPortfolio.UI.csproj|solutionrelative:ndpportfolio.ui\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE6DBCC1-A993-6BB9-C1CA-C5F996448880}|NdpPortfolio.UI\\NdpPortfolio.UI.csproj|c:\\nelly\\nelly_co\\portfolio\\ndp\\ndpporfolio\\ndpportfolio.ui\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CE6DBCC1-A993-6BB9-C1CA-C5F996448880}|NdpPortfolio.UI\\NdpPortfolio.UI.csproj|solutionrelative:ndpportfolio.ui\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE6DBCC1-A993-6BB9-C1CA-C5F996448880}|NdpPortfolio.UI\\NdpPortfolio.UI.csproj|c:\\nelly\\nelly_co\\portfolio\\ndp\\ndpporfolio\\ndpportfolio.ui\\views\\shared\\_validationscriptspartial.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE6DBCC1-A993-6BB9-C1CA-C5F996448880}|NdpPortfolio.UI\\NdpPortfolio.UI.csproj|solutionrelative:ndpportfolio.ui\\views\\shared\\_validationscriptspartial.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 337,
+          "SelectedChildIndex": 31,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:140:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:141:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:142:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:143:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:144:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:145:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{55f480fa-fbef-4386-8c1c-ea8d10c9f542}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml.cs",
+              "DocumentMoniker": "C:\\Nelly\\Nelly_co\\Portfolio\\ndp\\NdpPorfolio\\NdpPortfolio.UI\\Views\\Shared\\_Layout.cshtml.cs",
+              "RelativeDocumentMoniker": "NdpPortfolio.UI\\Views\\Shared\\_Layout.cshtml.cs",
+              "ToolTip": "C:\\Nelly\\Nelly_co\\Portfolio\\ndp\\NdpPorfolio\\NdpPortfolio.UI\\Views\\Shared\\_Layout.cshtml.cs",
+              "RelativeToolTip": "NdpPortfolio.UI\\Views\\Shared\\_Layout.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T00:39:22.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml.css",
+              "DocumentMoniker": "C:\\Nelly\\Nelly_co\\Portfolio\\ndp\\NdpPorfolio\\NdpPortfolio.UI\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeDocumentMoniker": "NdpPortfolio.UI\\Views\\Shared\\_Layout.cshtml.css",
+              "ToolTip": "C:\\Nelly\\Nelly_co\\Portfolio\\ndp\\NdpPorfolio\\NdpPortfolio.UI\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeToolTip": "NdpPortfolio.UI\\Views\\Shared\\_Layout.cshtml.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-05-23T00:39:21.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Nelly\\Nelly_co\\Portfolio\\ndp\\NdpPorfolio\\NdpPortfolio.UI\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "NdpPortfolio.UI\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Nelly\\Nelly_co\\Portfolio\\ndp\\NdpPorfolio\\NdpPortfolio.UI\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "NdpPortfolio.UI\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-23T00:39:23.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Error.cshtml.cs",
+              "DocumentMoniker": "C:\\Nelly\\Nelly_co\\Portfolio\\ndp\\NdpPorfolio\\NdpPortfolio.UI\\Views\\Shared\\Error.cshtml.cs",
+              "RelativeDocumentMoniker": "NdpPortfolio.UI\\Views\\Shared\\Error.cshtml.cs",
+              "ToolTip": "C:\\Nelly\\Nelly_co\\Portfolio\\ndp\\NdpPorfolio\\NdpPortfolio.UI\\Views\\Shared\\Error.cshtml.cs",
+              "RelativeToolTip": "NdpPortfolio.UI\\Views\\Shared\\Error.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T00:40:02.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Nelly\\Nelly_co\\Portfolio\\ndp\\NdpPorfolio\\NdpPortfolio.UI\\Program.cs",
+              "RelativeDocumentMoniker": "NdpPortfolio.UI\\Program.cs",
+              "ToolTip": "C:\\Nelly\\Nelly_co\\Portfolio\\ndp\\NdpPorfolio\\NdpPortfolio.UI\\Program.cs",
+              "RelativeToolTip": "NdpPortfolio.UI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T00:39:56.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Nelly\\Nelly_co\\Portfolio\\ndp\\NdpPorfolio\\NdpPortfolio.UI\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "NdpPortfolio.UI\\appsettings.Development.json",
+              "ToolTip": "C:\\Nelly\\Nelly_co\\Portfolio\\ndp\\NdpPorfolio\\NdpPortfolio.UI\\appsettings.Development.json",
+              "RelativeToolTip": "NdpPortfolio.UI\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-23T00:39:37.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_ValidationScriptsPartial.cshtml.cs",
+              "DocumentMoniker": "C:\\Nelly\\Nelly_co\\Portfolio\\ndp\\NdpPorfolio\\NdpPortfolio.UI\\Views\\Shared\\_ValidationScriptsPartial.cshtml.cs",
+              "RelativeDocumentMoniker": "NdpPortfolio.UI\\Views\\Shared\\_ValidationScriptsPartial.cshtml.cs",
+              "ToolTip": "C:\\Nelly\\Nelly_co\\Portfolio\\ndp\\NdpPorfolio\\NdpPortfolio.UI\\Views\\Shared\\_ValidationScriptsPartial.cshtml.cs",
+              "RelativeToolTip": "NdpPortfolio.UI\\Views\\Shared\\_ValidationScriptsPartial.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T00:39:29.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Nelly\\Nelly_co\\Portfolio\\ndp\\NdpPorfolio\\NdpPortfolio.UI\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "NdpPortfolio.UI\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Nelly\\Nelly_co\\Portfolio\\ndp\\NdpPorfolio\\NdpPortfolio.UI\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "NdpPortfolio.UI\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-23T00:39:26.124Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 63,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,4 +1,8 @@
 <Solution>
+  <Folder Name="/Solution Items/">
+    <File Path=".gitignore" />
+    <File Path="README.md" />
+  </Folder>
   <Project Path="NdpPortfolio.Application/NdpPortfolio.Application.csproj" />
   <Project Path="NdpPortfolio.Core/NdpPortfolio.Core.csproj" />
   <Project Path="NdpPortfolio.Infrastructure/NdpPortfolio.Infrastructure.csproj" />

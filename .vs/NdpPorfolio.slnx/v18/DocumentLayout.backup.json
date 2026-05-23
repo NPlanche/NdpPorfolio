@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Nelly\\Nelly_co\\Portfolio\\ndp\\NdpPorfolio\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{6F03AD26-D515-404B-B729-BA7AA6241147}|Solution Items{6F03AD26-D515-404B-B729-BA7AA6241147}|C:\\Nelly\\Nelly_co\\Portfolio\\ndp\\NdpPorfolio\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{6F03AD26-D515-404B-B729-BA7AA6241147}|Solution Items{6F03AD26-D515-404B-B729-BA7AA6241147}|solutionrelative:README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE6DBCC1-A993-6BB9-C1CA-C5F996448880}|NdpPortfolio.UI\\NdpPortfolio.UI.csproj|c:\\nelly\\nelly_co\\portfolio\\ndp\\ndpporfolio\\ndpportfolio.ui\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{CE6DBCC1-A993-6BB9-C1CA-C5F996448880}|NdpPortfolio.UI\\NdpPortfolio.UI.csproj|solutionrelative:ndpportfolio.ui\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{CE6DBCC1-A993-6BB9-C1CA-C5F996448880}|NdpPortfolio.UI\\NdpPortfolio.UI.csproj|c:\\nelly\\nelly_co\\portfolio\\ndp\\ndpporfolio\\ndpportfolio.ui\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{CE6DBCC1-A993-6BB9-C1CA-C5F996448880}|NdpPortfolio.UI\\NdpPortfolio.UI.csproj|solutionrelative:ndpportfolio.ui\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -42,7 +50,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 337,
-          "SelectedChildIndex": 31,
+          "SelectedChildIndex": 29,
           "Children": [
             {
               "$type": "Bookmark",
@@ -162,7 +170,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Nelly\\Nelly_co\\Portfolio\\ndp\\NdpPorfolio\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "C:\\Nelly\\Nelly_co\\Portfolio\\ndp\\NdpPorfolio\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE8AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-05-23T00:51:58.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Nelly\\Nelly_co\\Portfolio\\ndp\\NdpPorfolio\\NdpPortfolio.UI\\.gitignore",
+              "RelativeDocumentMoniker": "NdpPortfolio.UI\\.gitignore",
+              "ToolTip": "C:\\Nelly\\Nelly_co\\Portfolio\\ndp\\NdpPorfolio\\NdpPortfolio.UI\\.gitignore",
+              "RelativeToolTip": "NdpPortfolio.UI\\.gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-05-23T00:44:25.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "_Layout.cshtml.cs",
               "DocumentMoniker": "C:\\Nelly\\Nelly_co\\Portfolio\\ndp\\NdpPorfolio\\NdpPortfolio.UI\\Views\\Shared\\_Layout.cshtml.cs",
               "RelativeDocumentMoniker": "NdpPortfolio.UI\\Views\\Shared\\_Layout.cshtml.cs",
@@ -170,12 +204,11 @@
               "RelativeToolTip": "NdpPortfolio.UI\\Views\\Shared\\_Layout.cshtml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-23T00:39:22.629Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-23T00:39:22.629Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "_Layout.cshtml.css",
               "DocumentMoniker": "C:\\Nelly\\Nelly_co\\Portfolio\\ndp\\NdpPorfolio\\NdpPortfolio.UI\\Views\\Shared\\_Layout.cshtml.css",
               "RelativeDocumentMoniker": "NdpPortfolio.UI\\Views\\Shared\\_Layout.cshtml.css",
@@ -183,12 +216,11 @@
               "RelativeToolTip": "NdpPortfolio.UI\\Views\\Shared\\_Layout.cshtml.css",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2026-05-23T00:39:21.685Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-23T00:39:21.685Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Nelly\\Nelly_co\\Portfolio\\ndp\\NdpPorfolio\\NdpPortfolio.UI\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "NdpPortfolio.UI\\Views\\Shared\\_Layout.cshtml",
@@ -196,12 +228,11 @@
               "RelativeToolTip": "NdpPortfolio.UI\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-05-23T00:39:23.857Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-23T00:39:23.857Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Error.cshtml.cs",
               "DocumentMoniker": "C:\\Nelly\\Nelly_co\\Portfolio\\ndp\\NdpPorfolio\\NdpPortfolio.UI\\Views\\Shared\\Error.cshtml.cs",
               "RelativeDocumentMoniker": "NdpPortfolio.UI\\Views\\Shared\\Error.cshtml.cs",
@@ -209,12 +240,11 @@
               "RelativeToolTip": "NdpPortfolio.UI\\Views\\Shared\\Error.cshtml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-23T00:40:02.042Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-23T00:40:02.042Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Nelly\\Nelly_co\\Portfolio\\ndp\\NdpPorfolio\\NdpPortfolio.UI\\Program.cs",
               "RelativeDocumentMoniker": "NdpPortfolio.UI\\Program.cs",
@@ -222,12 +252,11 @@
               "RelativeToolTip": "NdpPortfolio.UI\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-23T00:39:56.908Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-23T00:39:56.908Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "C:\\Nelly\\Nelly_co\\Portfolio\\ndp\\NdpPorfolio\\NdpPortfolio.UI\\appsettings.Development.json",
               "RelativeDocumentMoniker": "NdpPortfolio.UI\\appsettings.Development.json",
@@ -235,12 +264,11 @@
               "RelativeToolTip": "NdpPortfolio.UI\\appsettings.Development.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-05-23T00:39:37.624Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-23T00:39:37.624Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "_ValidationScriptsPartial.cshtml.cs",
               "DocumentMoniker": "C:\\Nelly\\Nelly_co\\Portfolio\\ndp\\NdpPorfolio\\NdpPortfolio.UI\\Views\\Shared\\_ValidationScriptsPartial.cshtml.cs",
               "RelativeDocumentMoniker": "NdpPortfolio.UI\\Views\\Shared\\_ValidationScriptsPartial.cshtml.cs",
@@ -248,12 +276,11 @@
               "RelativeToolTip": "NdpPortfolio.UI\\Views\\Shared\\_ValidationScriptsPartial.cshtml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-23T00:39:29.096Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-23T00:39:29.096Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "_ValidationScriptsPartial.cshtml",
               "DocumentMoniker": "C:\\Nelly\\Nelly_co\\Portfolio\\ndp\\NdpPorfolio\\NdpPortfolio.UI\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
               "RelativeDocumentMoniker": "NdpPortfolio.UI\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
@@ -261,8 +288,7 @@
               "RelativeToolTip": "NdpPortfolio.UI\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-05-23T00:39:26.124Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-23T00:39:26.124Z"
             }
           ]
         },

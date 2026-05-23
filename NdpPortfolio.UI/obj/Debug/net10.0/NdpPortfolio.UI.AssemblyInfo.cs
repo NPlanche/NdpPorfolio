@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NdpPortfolio.UI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+339fe14e94eed1c0e09ee735b68222a679f02207")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+79ec4bd91d0a688e0a1db3bfa74d26386d1e692f")]
 [assembly: System.Reflection.AssemblyProductAttribute("NdpPortfolio.UI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NdpPortfolio.UI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
